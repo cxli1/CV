@@ -39,7 +39,7 @@
 \fancyhead{}
 \fancyfoot[C]{Curriculum Vitae: \thepage\hspace{0.1em} of \pageref{LastPage}}
 \fancyfoot[L]{\textbf{CX Li}}
-\fancyfoot[R]{\textbf{Updated:} 10.03.2019}
+\fancyfoot[R]{\textbf{Updated:} 02.23.2020}
 \renewcommand{\headrulewidth}{0pt}
 \renewcommand{\footrulewidth}{0.4pt}
 
